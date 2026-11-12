@@ -1,0 +1,4 @@
+interface:
+  display_name: "Style Match 风格分析与迁移"
+  short_description: "分析图片冷暖/氛围/繁简，归纳多图共同风格，逐元素迁移到新图"
+  default_prompt: "Use style-match to analyze this image's style (warm/cool ratio, atmosphere, minimalist vs busy) and produce a reusable style profile."
